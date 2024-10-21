@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore system-specific files
+.DS_Store
+*.log
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore images folder (optional)
+img/
+
+# Ignore PDFs (optional)
+pdfs/
